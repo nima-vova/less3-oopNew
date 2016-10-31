@@ -2,7 +2,7 @@
 
 namespace Vendor\Moduls;
 
-class AddUser extend DataBase{
+class AddUser extend DataBase
     {
 
     public function selectDB()
