@@ -1,0 +1,25 @@
+{
+    "name": "nima/moduls",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vladimir Nimchyn",
+            "email": "nima.vova@gmail.com"
+        }
+    ],
+
+  "autoload": {
+        "psr-4": {
+            "Vendor\\Moduls\\": "src"
+        }
+    },
+    "require": {
+
+   "php":">=5.4.0"
+   
+   
+}
+        
+    }
+
+
